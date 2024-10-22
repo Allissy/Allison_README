@@ -1,0 +1,12 @@
+#Start code here
+print("habia hace una __ un ___ con el ____ su ___ favorito era ___ y vivia en ___ muy lejos de sus ____ el ya tenia su ____  pero extrañaba su ____  donde ____desde que estaba mas ___")
+tiempo = input("cuanto tiempo:")
+nombre = input("ingrese un nombre:")
+color = input("ingresa un color:")
+vi = input("en donde vivia")
+p = input("lejos de  :")
+tenia = input("pero tenia una:")
+lugar2 = input("su casa?")
+crecio = input("en su casa donde")
+chico = input("ingrese su tama")
+print("habia hace una _vez_ un persona con el nombre y  su color favorito era rojo y vivia en pachuca muy lejos de sus  padres el ya tenia su famillia  pero extrañaba su lugar donde crecio desde que estaba mas pequeño")
